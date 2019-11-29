@@ -29,7 +29,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #ifndef ARCH_MACOSX
-  #include <malloc.h>
+  //#include <malloc.h>
 #endif // ARCH_MACOSX
 #include <math.h>
 #include <string.h>
